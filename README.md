@@ -26,6 +26,6 @@ Developed by **DARK SIFAL**
 * There are several URL given in a list, but you can update it as you wish
 * Select one url of your choice, and here you go !
 * There are 3 other commands available when you have selected an URL :
-- 'prev': go back to previous directory
-- 'menu': go back the URL selection menu
-- 'exit': end the program
+    - 'prev': go back to previous directory
+    - 'menu': go back the URL selection menu
+    - 'exit': end the program
